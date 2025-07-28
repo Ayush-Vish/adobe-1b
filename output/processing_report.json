@@ -1,0 +1,17 @@
+{
+    "summary": {
+        "total_collections": 3,
+        "successful": 3,
+        "failed": 0,
+        "success_rate": 100.0,
+        "total_processing_time": 582.7795095443726,
+        "total_sections_extracted": 1666,
+        "total_documents_processed": 31
+    },
+    "performance": {
+        "avg_time_per_collection": 194.25983651479086,
+        "sections_per_collection": 555.3333333333334,
+        "max_workers_used": 3
+    },
+    "errors": []
+}
